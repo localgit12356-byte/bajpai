@@ -20,6 +20,9 @@ public class fdc {
         for(int c=1;c<=10;c++){
             System.out.println(n*c);
         }
+        int sc=44;
+        int dc=55;
+        System.out.println(sc+dc);
 
 
     }
