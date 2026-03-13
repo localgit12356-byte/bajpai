@@ -31,6 +31,10 @@ public class fdc {
             System.out.println("fail");
         }
         System.out.println("msdhoni");
+        for(int g=1;g<=9;g++){
+            System.out.println(g*g);
+        }
+
 
 
 
