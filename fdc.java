@@ -12,9 +12,12 @@ public class fdc {
         System.out.println(name);
         String dictator="donald trump";
         System.out.println(dictator);
+        for(int a=1;a<=10;a++){
+            System.out.println(a);
+        }
+
 
     }
-
 
 
 }
