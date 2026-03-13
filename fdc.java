@@ -35,6 +35,12 @@ public class fdc {
             System.out.println(g*g);
         }
 
+        for(int f=1;f<=10;f++){
+            System.out.println(f*f);
+
+        }
+
+
 
 
 
